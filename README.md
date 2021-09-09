@@ -1,9 +1,11 @@
 # Lab: Django REST Framework & Docker
 
-Overview
+## Overview
+
 Use Django REST Framework to create an API, then “containerize” it with Docker.
 
-Feature Tasks and Requirements
+## Feature Tasks and Requirements
+
 Rebuild a custom version of Blog API demo project from scratch.
 Replace Blog and Post with your own application and model.
 Your model must have at least as many fields as demo’s model.
